@@ -1,0 +1,33 @@
+.cur-flex {
+  display: flex;
+}
+
+.cur-overflow {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.cur-justify-between {
+  justify-content: space-between;
+}
+
+.cur-justify-center {
+  justify-content: center;
+}
+
+.cur-align-center {
+  align-items: center;
+}
+
+.cur-flex-wrap{
+  flex-wrap: wrap;
+}
+
+.cur-flex-nowrap{
+  flex-wrap: nowrap;
+}
+
+.flex-1{
+  flex: 1;
+}

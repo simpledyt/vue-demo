@@ -1,0 +1,15 @@
+/*
+ * @Author: dyt 
+ * @Date: 2018-07-02 09:31:03 
+ * @Last Modified by: dyt
+ * @Last Modified time: 2018-07-02 10:04:40
+ */
+
+@mixin border-radius($radius: 6px) {
+  border-radius: $radius;
+}
+
+@mixin box-shadow {
+  box-shadow: 0 2px 18px 0 #eae6e6;
+}
+
